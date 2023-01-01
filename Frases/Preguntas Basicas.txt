@@ -1,0 +1,40 @@
+¿Quién eres?
+Los usuarios quieren conocer la historia del chatbot, quién es y de dónde viene. Es importante establecer desde el principio que el usuario está hablando con un chatbot con capacidades limitadas, de esa manera se establecen las expectativas correctas.
+Esta también es la oportunidad para identificar qué es lo que haces como empresa.
+Deja que el chatbot se presente al principio, diga quién es y cuál es la empresa. Un buen bot debe ser honesto y directo.
+Y cuando no entienda algo, el chatbot debe tener una respuesta programada que indique sus capacidades y lo que puede responder. 
+¿Qué haces?
+El bot debe informar a los usuarios qué es lo que hace, y por qué estás allí para ellos.
+Y debería haber algunas variaciones de la misma respuesta. Si no tiene variaciones, establece el objetivo de la conversación antes de que comience el bot.
+¿Cómo te llamas?
+Esta pregunta simple e inofensiva toca el aspecto existencial de los chatbots.
+¿Cuál es el nombre de tu chatbot? ¿Quién o qué es tu chatbot? ¿Tiene incluso un nombre? El chabot debe estar preparado para contestar todo esto, no solo porque los usuarios van a preguntar, sino porque esto es algo que debes resolver internamente, como empresa.
+Las empresas con los mejores chatbots se reúnen para mapear la marca de su chatbot, su personalidad, tono, nombre y presentación. Por tanto, no es nada descabellado pensar un nombre para tu chatbot.
+¿Cómo estás?
+Esta es una de las preguntas más comunes que le harán a tu chatbot y no requiere una respuesta específica. Es momento de ser creativo, y dejar que salga a flote la personalidad de la marca.
+Si tu marca lo permite, sé divertido, a los usuarios les gusta esto, les gusta recibir respuestas poco convencionales en este tipo de preguntas no informativas.
+¿Cómo funciona?
+Este es el corazón de la sección de preguntas frecuentes en cualquier tienda.
+Compras, pagos, procesamiento de pedidos, reembolsos, cancelaciones, consultas, personalización, credenciales, testimonios, privacidad: todos estos puntos se abordan aquí.
+Sin embargo es una pregunta que puede tener muchas variaciones, dos docenas de preguntas pueden tener una misma respuesta.
+Por ejemplo, las opciones de pago reciben muchas consultas con muchas variaciones. Los clientes que estén dispuestos a pagar en línea mediante transacciones con tarjeta de crédito deben sentirse seguros al compartir sus datos.
+El chatbot debe responder qué medidas de seguridad utiliza tu empresa para proteger los intereses e identidades de los clientes.
+Revisa las preguntas frecuentes, de esa manera, puedes descubrir también las preguntas por completar. El monólogo no debe ser unidireccional, tus usuarios necesitan tener una conversación bidireccional y dinámica, o incluso árboles de conversación.
+Finalmente recuerda que para la mayoría de tu audiencia, tu chatbot puede ser el primero con el que interactúan. Un estudio desarrollado por Ubisend declara que el 75% de los consumidores aún no ha hablado con un chatbot.
+¿Qué ofrecen?
+Por ejemplo, si eres una tienda en línea, qué ofreces. Para empezar a usar el chatbot es recomendable usar tan solo unas pocas categorías de productos, pero luego es importante que todo el conjunto de productos haya sido mapeado para el bot.
+Esto puede implicar mucho trabajo, pero si el objetivo del chatbot es mejorar las conversiones de ventas y ayudar a cerrar clientes, debe hacerse.
+Cómo funciona tu sitio y qué ofrece representará la mayor parte de las preguntas en tu conjunto de conversación. Cuanto más trabajo pongas aquí, más completa será tu base de respuestas del chatbot.
+¿Qué ubicación tiene tu empresa?
+Es importante informar a tus clientes desde qué país o en qué países atiendes. Sobre todo cuando se trata de la venta y envíos de productos físicos.
+Por ejemplo, Paypal tiene una lista de países a los que no presta servicio. Si utilizas Paypal para el procesamiento de pagos e integraciones, tu procesador de pagos rechazará la tarjeta emitida en esos mercados.
+Asegúrate de que tu chatbot le diga a tus clientes desde un principio qué regiones atiendes.
+El chatbot también puede ayudar a tus clientes a comprender mejor tu historia. Deja que el bot cuente una historia entretenida como parte de una conversación lateral.
+¿Te gusta [persona famosa]?
+Te sorprendería saber cuántas veces un bot recibe preguntas de corte político o de farándula sin tener relación con tu empresa.
+¿Te gusta [alguna celebridad que esté causando controversias actuales]? Pueden ser algunas preguntas recurrentes para las que seguramente no estés preparado.
+¿Cómo puedes manejar estas preguntas? El consejo es que ignores estas preguntas a menos que esto se relacione de alguna manera con tu marca.
+Por ejemplo, creando un chatbot de música rock, es posible que desees tener una respuesta para '¿Te gusta Nirvana?'.
+Fuera de eso, responde las preguntas como fuera de alcance. Se supone que tu chatbot no debe tener una opinión sobre todo, sino sobre lo que compete a tu marca.
+Ahora tienes algunas de las preguntas más comunes que los usuarios hacen a chatbots de todos los idiomas con distintos casos de uso.
+Cuando diseñes tu chatbot, tómalas en cuenta para crear una interfaz poderosa, robusta y efectiva. Tus clientes te lo agradecerán y verás que tu inversión en tu  chatbot rendirá mejores frutos.

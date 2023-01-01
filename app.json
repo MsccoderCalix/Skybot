@@ -1,0 +1,7 @@
+{
+	"name": "Skybot",
+	"description": "Simple WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/calix666/Skybot",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"]
+}
