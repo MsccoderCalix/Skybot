@@ -1,7 +1,7 @@
 # Skybot
  __________________________
  
- - [![MscCoder](https://img.shields.io/badge/MscCoder-Calixto_Villega-1877F2?style=for-the-badge&logo=probot&logoColor=white&labelColor=black)]()</br>
+ - [![MscCoderCalix](https://img.shields.io/badge/MscCoder-Calixto_Villega-1877F2?style=for-the-badge&logo=probot&logoColor=white&labelColor=black)]()</br>
  
  ### Bot avanzado creado en Visual Studio Code y Nodejs
  ### Cuenta opciones de bienvenida, colecciones de frases, consejos, refranes y la biblia reyna valera 1960.</br>
